@@ -4,7 +4,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🧠 Hacker News Upvote Predictor *(Private)*  
+## 1. Hacker News Upvote Predictor 🧠 *(Private)*  
 **Tech:** PyTorch, FastAPI, Streamlit, Docker  
 **Description:** A multi-model deep learning system that predicts Hacker News upvotes based on post title and timestamp.  
 **Highlights:**
@@ -16,7 +16,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🔎 Two-Tower Semantic Search Engine *(Private)*  
+## 2. Two-Tower Semantic Search Engine 🔎 *(Private)*  
 **Tech:** PyTorch, FastAPI, ChromaDB, Streamlit, Weights & Biases  
 **Description:** Neural search system using MS MARCO data and a Two-Tower architecture trained via triplet loss.  
 **Highlights:**
@@ -28,7 +28,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🔢 MNIST Transformer: Vision-to-Sequence Model for Digit Grids *(Private)*  
+## 3. MNIST Transformer: Vision-to-Sequence Model for Digit Grids 🔢 *(Private)*  
 **Tech:** PyTorch  
 **Description:** A transformer-based encoder-decoder model developed from scratch to decode digit sequences from composite MNIST grids.  
 **Highlights:**
@@ -40,7 +40,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🦖 DinoBot: Fine-Tuning TinyLLaMA with LoRA *(Private)*  
+## 4. DinoBot: Fine-Tuning TinyLLaMA with LoRA 🦖 *(Private)*  
 **Tech:** TinyLLaMA, LoRA, PEFT, Gradio  
 **Description:** Fine-tuned TinyLLaMA into a fun "dinosaur conspiracy" chatbot using handcrafted training data.  
 **Highlights:**
@@ -51,7 +51,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🤖 LangGraph Multi-Agent Architectures *(Private – Workshop Repo)*  
+## 5. LangGraph Multi-Agent Architectures 🤖 *(Private – Workshop Repo)*  
 **Tech:** LangGraph, Python, OpenAI API  
 **Description:** A hands-on workshop project exploring 6 core multi-agent system patterns using LangGraph.  
 **Patterns Covered:**
