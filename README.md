@@ -1,4 +1,4 @@
-############## 🔍 Project Portfolio – Dimitris Gaitanelis
+## 🔍 Project Portfolio – Dimitris Gaitanelis
 
 Welcome! This public repository offers an overview of selected private projects I've developed across machine learning, NLP, full-stack apps, and multi-agent systems. While the source code remains private (due to ongoing development or sensitive components), I'm happy to walk you through any of these upon request.
 
