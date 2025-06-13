@@ -66,7 +66,7 @@ Welcome! This public repository offers an overview of selected private projects 
 ---
 
 ## 🗂️ How to Request Access or Demos
-If youwould like to see any of these projects in action:
+If you would like to see any of these projects in action:
 - 📩 Reach out via [LinkedIn](https://www.linkedin.com/in/dimitris-gaitanelis/) or email
 - 🔐 I can provide walkthroughs, architecture diagrams, or live demos depending on your interest
 
