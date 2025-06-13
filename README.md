@@ -51,7 +51,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🤖 LangGraph Multi-Agent Architectures Workshop *(Private – Workshop Repo)*  
+## 🤖 LangGraph Multi-Agent Architectures *(Private – Workshop Repo)*  
 **Tech:** LangGraph, Python, OpenAI API  
 **Description:** A hands-on workshop project exploring 6 core multi-agent system patterns using LangGraph.  
 **Patterns Covered:**
