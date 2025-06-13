@@ -28,9 +28,9 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 🔢 MNIST Transformer: Digit Sequence Learning from Grids *(Private)*  
+## 🔢 MNIST Grid2Seq Transformer: Vision-to-Sequence Model for Digit Grid images *(Private)*  
 **Tech:** PyTorch  
-**Description:** A transformer-based encoder-decoder model trained from scratch to decode digit sequences from composite MNIST grids.  
+**Description:** A transformer-based encoder-decoder model developed from scratch to decode digit sequences from composite MNIST grids.  
 **Highlights:**
 - Manual implementation of attention mechanisms
 - Autoregressive decoding
