@@ -61,7 +61,6 @@ Welcome! This public repository offers an overview of selected private projects 
 4. Supervisor Agents  
 5. Evaluator-Optimiser  
 6. Orchestrator-Worker  
-**Production Concerns Implemented:** Logging, retries, compliance checks  
 **Workshop Repo:** Based on [Tandem Creative Dev](https://github.com/TandemCreativeDev)
 
 ---
