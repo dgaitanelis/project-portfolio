@@ -28,7 +28,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 3. MNIST Transformer: Vision-to-Sequence Model for Digit Grids 🔢 *(Private)*  
+## 3. MNIST Transformer: Vision-to-Sequence Model for Digit Grid images 🔢 *(Private)*  
 **Tech:** PyTorch  
 **Description:** A transformer-based encoder-decoder model developed from scratch to decode digit sequences from composite MNIST grids.  
 **Highlights:**
