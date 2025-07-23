@@ -40,7 +40,23 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 4. DinoBot: Fine-Tuning TinyLLaMA with LoRA 🦖 *(Private)*  
+## 4. MNIST Transformer Classifier with W&B Integration ✍️📈 (Private)
+**Tech:** PyTorch, Streamlit, FastAPI, Weights & Biases
+**Description:** A full ML workflow example featuring a patch-based Vision Transformer trained on MNIST with Bayesian hyperparameter sweeps and real-time performance tracking.
+**Highlights:**
+- Transformer encoder with patch embedding and multi-head attention
+- W&B sweep for architecture search with automatic config selection
+- Streamlit app for interactive inference and ground-truth feedback
+- Live logging of confidence, latency, and per-class accuracy to W&B
+- FastAPI server for RESTful predictions
+- Post-hoc analysis tools for visualizing misclassifications and confidence distributions
+
+⚙️ Designed to demonstrate how W&B can support lightweight production-style monitoring and feedback loops
+**Demo:** Streamlit/W&B walkthrough available upon request
+
+---
+
+## 5. DinoBot: Fine-Tuning TinyLLaMA with LoRA 🦖 *(Private)*  
 **Tech:** TinyLLaMA, LoRA, PEFT, Gradio  
 **Description:** Fine-tuned TinyLLaMA into a fun "dinosaur conspiracy" chatbot using handcrafted training data.  
 **Highlights:**
@@ -51,7 +67,7 @@ Welcome! This public repository offers an overview of selected private projects 
 
 ---
 
-## 5. LangGraph Multi-Agent Architectures 🤖 *(Private – Workshop Repo)*  
+## 6. LangGraph Multi-Agent Architectures 🤖 *(Private – Workshop Repo)*  
 **Tech:** LangGraph, Python, OpenAI API  
 **Description:** A hands-on workshop project exploring 6 core multi-agent system patterns using LangGraph.  
 **Patterns Covered:**
