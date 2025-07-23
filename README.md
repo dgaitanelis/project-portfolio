@@ -51,7 +51,8 @@ Welcome! This public repository offers an overview of selected private projects 
 - Streamlit app for interactive inference and ground-truth feedback  
 - Live logging of confidence, latency, and per-class accuracy to W&B  
 - FastAPI server for RESTful predictions  
-- Post-hoc analysis tools for visualizing misclassifications and confidence distributions  
+- Post-hoc analysis tools for visualizing misclassifications and confidence distributions
+
 ⚙️ Designed to demonstrate how W&B can support lightweight production-style monitoring and feedback loops  
 
 **Demo:** Streamlit/W&B walkthrough available upon request
